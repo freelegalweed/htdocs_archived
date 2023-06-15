@@ -1,0 +1,3 @@
+ErrorDocument 400 https://github.com/freelegalweed/htdocs
+ErrorDocument 404 https://www.freelegalweed.shop/
+ErrorDocument 500 https://github.com/freelegalweed/htdocs
